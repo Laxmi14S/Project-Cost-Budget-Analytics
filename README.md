@@ -1,6 +1,9 @@
 # Project Cost & Budget Analytics Dashboard
 
 ## Overview
+## 🖥️ Dashboard Preview
+
+![Project Cost & Budget Analytics Dashboard](Dashboard_Screenshot.png)
 
 The **Project Cost & Budget Analytics Dashboard** is an interactive Power BI project developed to monitor project budgets, analyse actual expenditure, and track budget utilisation across multiple departments and projects.
 
